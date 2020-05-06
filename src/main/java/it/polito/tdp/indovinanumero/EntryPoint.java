@@ -1,6 +1,7 @@
 package it.polito.tdp.indovinanumero;
 
 import javafx.application.Application;
+
 import static javafx.application.Application.launch;
 
 import it.polito.tpd.indovinanumero.model.Model;
